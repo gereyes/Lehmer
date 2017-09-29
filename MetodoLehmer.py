@@ -28,3 +28,4 @@ if(xo>c):
 else:
     print("")
     print("La semilla debe ser mas grande que el numero")
+    kgh
